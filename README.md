@@ -1,2 +1,3 @@
 # hello-world
 first project-ideas and resources
+committing to hours of code to see where it takes me... 
